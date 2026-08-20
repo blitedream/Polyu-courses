@@ -5,6 +5,7 @@ Selected coursework and projects from The Hong Kong Polytechnic University.
 ## Courses
 
 - [COMP2411 - Database Systems](COMP2411/)
+- [COMP2322 - Computer Networking](COMP2322/)
 
 ## Repository policy
 
